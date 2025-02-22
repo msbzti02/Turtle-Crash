@@ -63,37 +63,3 @@ Draws a vortex of filled squares with random colors.
 
 The squares decrease in size and rotate to create a vortex effect.
 
-Contributing
-Feel free to contribute to this project by submitting pull requests or opening issues for any bugs or feature requests.
-
-License
-This project is open-source and available under the MIT License.
-
-Acknowledgments
-The turtle module documentation for providing the tools to create these graphics.
-
-Inspiration from various online resources and tutorials.
-
-Contact
-For any questions or feedback, please contact Tonumoy Mukherjee at your-email@example.com.
-
-Enjoy creating beautiful patterns with Python Turtle!
-
-Copy
-
-### Steps to Add to GitHub
-
-1. **Create a new repository** on GitHub.
-2. **Clone the repository** to your local machine:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-Add the README.md file to the root of your project directory.
-
-Commit and push the changes:
-
-bash
-Copy
-git add README.md
-git commit -m "Added README file"
-git push origin main
-This README.md will help users understand your project and how to use it. You can customize it further based on your specific needs.
