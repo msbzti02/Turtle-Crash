@@ -1,5 +1,3 @@
-# Turtle-Crash
-Certainly! Below is a README.md file content that you can use to describe your Python Turtle graphics project on GitHub. This README provides an overview of the project, how to run it, and what it does.
 
 markdown
 Copy
