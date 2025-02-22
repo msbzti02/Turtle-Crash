@@ -1,6 +1,4 @@
 
-markdown
-Copy
 # Fractal Tree and Other Turtle Graphics Patterns
 
 This repository contains a collection of Python scripts that use the `turtle` module to create various graphical patterns, including fractal trees, geometric shapes, and other artistic designs. The project is developed by **Tonumoy Mukherjee**.
