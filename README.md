@@ -63,3 +63,14 @@ Draws a vortex of filled squares with random colors.
 
 The squares decrease in size and rotate to create a vortex effect.
 
+
+
+
+![image](https://github.com/user-attachments/assets/415040a1-f891-4204-94b3-f9ef39dcd9b2)
+
+
+![image](https://github.com/user-attachments/assets/7a51e4a1-500d-491a-9af4-3842ea1c9c09)
+
+![image](https://github.com/user-attachments/assets/8dd386c9-580a-479f-af01-167428a484a7)
+
+![image](https://github.com/user-attachments/assets/9e2325c4-0b79-4594-acb7-43103f3792e5)
